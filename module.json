@@ -1,0 +1,23 @@
+{
+  "id": "mirror-isles",
+  "title": "Mirror Isles Plane Manager",
+  "description": "A module to dynamically manage planar alignment and environmental effects for the Mirror Isles.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Hope",
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.999"
+  },
+  "system": ["dnd5e"],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "readme": "",
+  "esmodules": ["scripts/mirror-isles.js"],
+  "styles": ["styles/mirror-isles.css"],
+  "packs": []
+}
