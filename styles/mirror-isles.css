@@ -1,0 +1,8 @@
+/* Mirror Isles Settings Menu Styling */
+form label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+form input {
+  text-align: center;
+}
